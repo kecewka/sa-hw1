@@ -1,4 +1,5 @@
-# CSCS5103 - Software Architecture HW#1
+<details>
+	<summary># CSCS5103 - Software Architecture HW#1</summary>
 1. https://medium.com/easyread/docker-tutorial-complete-beginners-guide-8b7dd2362c35
 	
 2. https://github.com/delner/docker-training/tree/master/exercises/basic
@@ -11,3 +12,6 @@
 All the solved tasks upload to your Git repo separated by folders.
 	
 Deadline: **27.03.2022**
+</details>
+
+# CSCS5103 - Software Architecture HW#2
